@@ -225,7 +225,7 @@ class HomeScreen extends StatelessWidget {
     Category(
       id: 'cat5',
       name: 'Outdoor',
-      imageUrl: 'Assets/Category_Images/outdoor.jpg',
+      imageUrl: 'Category_Images/outdoor.jpg',
       products: [
         Product(
           id: 'prod9',
@@ -241,7 +241,7 @@ class HomeScreen extends StatelessWidget {
           id: 'prod10',
           name: 'Kids Trampoline',
           price: 199.99,
-          imageUrl: 'Assets/Category_Images/outdoor.jpg',
+          imageUrl: 'Category_Images/outdoor.jpg',
           description: 'Safe trampoline with net enclosure.',
           ageRange: '5-12 years',
           rating: 4.5,
